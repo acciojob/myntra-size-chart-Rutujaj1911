@@ -1,2 +1,14 @@
+table{
+	height:100px;
+	width:100%;
+}
+table, th, td{
+	border:1px solid black;
+}
+th{
+	background-color:brown;
+	text-align:left;
+}
+
 
 /* Your CSS Code here. */
